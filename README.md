@@ -27,7 +27,7 @@
 [](https://ibb.co.com/h1KDntW1)
 
 ## Cara Menjalankan
-1. Clone repo  : git clone [url-repo-kamu]
+1. Clone repo  : git clone [](https://github.com/handikawanggara218-alt/pemmobile-p06-handikawanggara.git)
 2. Install deps: npm install
 3. Jalankan    : npx expo start
 4. Scan QR Code dengan Expo Go di HP
