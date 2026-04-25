@@ -11,10 +11,10 @@
 - [x] ListEmptyComponent (empty state)
 - [x] Search / Filter real-time
 - [x] Pull-to-Refresh
-- [ ] Filter Kategori (E1) — isi jika dikerjakan
-- [ ] Toggle List/Grid View (E2) — isi jika dikerjakan
-- [ ] SectionList Mode (E3) — isi jika dikerjakan
-- [ ] Sort Produk (E4) — isi jika dikerjakan
+- [x] Filter Kategori (E1) — isi jika dikerjakan
+- [x] Toggle List/Grid View (E2) — isi jika dikerjakan
+- [x] SectionList Mode (E3) — isi jika dikerjakan
+- [x] Sort Produk (E4) — isi jika dikerjakan
 
 ## Screenshot
 ### Tampilan Utama (List Produk)
